@@ -30,7 +30,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * * 
 
-Code for Atlanta is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, skillset, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Atlanta event, including talks. Anyone in violation of these policies may expelled from Code for Alanta events or network activities, at the discretion of the event organizers.
+Code for Atlanta is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, skillset, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Atlanta event, including talks. Anyone in violation of these policies may expelled from Code for Atlanta events or network activities, at the discretion of the event organizers.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; dismissiveness or insults of skill level; and patronizing language or action.
 
